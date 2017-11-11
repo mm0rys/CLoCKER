@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="营地"
+        android:id="@+id/navigation_yingdi"
+        android:icon="@drawable/yingdi"
+        />
+    <item
+        android:title="清单"
+        android:id="@+id/navigation_qingdan"
+        android:icon="@drawable/checklist"
+        />
+    <item
+        android:title="小镇"
+        android:id="@+id/navigation_town"
+        android:icon="@drawable/town"
+        />
+</menu>

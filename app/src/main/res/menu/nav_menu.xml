@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_fire"
+            android:icon="@drawable/fire_black"
+            android:title="篝火"/>
+        <item
+            android:id="@+id/nav_picnic"
+            android:icon="@drawable/picnic_black"
+            android:title="菜篮"/>
+        <item
+            android:id="@+id/nav_person"
+            android:icon="@drawable/person_black"
+            android:title="个人信息"/>
+    </group>
+</menu>
